@@ -1,4 +1,4 @@
-package com.login;
+package com.iphonepinlock;
 
 import android.app.Application;
 
